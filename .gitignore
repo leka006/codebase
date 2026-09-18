@@ -30,6 +30,8 @@ chroma_db/
 .DS_Store
 Thumbs.db
 
+
+
 # ── Debug / Test artifacts (not for production) ──
 scratch/
 test_api.py
